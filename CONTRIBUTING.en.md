@@ -14,16 +14,17 @@ the same remote control chip.
   an issue with the exact brand/model. This helps map which devices
   share this same remote.
 - **Found a missing button or a wrong code?** Open a PR updating
-  [`IR_CODES.md`](IR_CODES.en.md) and [`codebook.json`](codebook.json)
-  together — keep both in sync.
+  [`README.md`](README.en.md) (code table) and
+  [`codebook.json`](codebook.json) together — keep both in sync.
 - **Tested on another (non-Tuya) IR Hub or tool?** Report whether the
   NEC "textbook" timings worked or whether you needed the real
-  measured timings (see the note in `IR_CODES.md`) — helps show how
+  measured timings (see the note in `README.md`) — helps show how
   sensitive this specific hardware is.
-- **CLI code bugs:** this project already went through several real
-  bugs documented in section 8 of [`README.md`](README.en.md) — if you
-  find another one (especially something that only shows up against
-  real hardware, not in isolated tests), PRs or issues are welcome.
+- **Python CLI bugs (Tuya usage):** this project already went through
+  several real bugs documented in [`TUYA_CLI.md`](TUYA_CLI.en.md) — if
+  you find another one (especially something that only shows up
+  against real hardware, not in isolated tests), PRs or issues are
+  welcome.
 
 ## Testing before sending a PR
 

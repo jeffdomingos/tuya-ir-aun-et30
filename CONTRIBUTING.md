@@ -15,14 +15,15 @@ remoto.
   uma issue contando a marca/modelo exato. Isso ajuda a mapear quais
   aparelhos compartilham esse controle.
 - **Achou um botão que falta ou um código errado?** Abra um PR
-  atualizando [`IR_CODES.md`](IR_CODES.md) e [`codebook.json`](codebook.json)
-  junto — mantenha os dois em sincronia.
+  atualizando [`README.md`](README.md) (tabela de códigos) e
+  [`codebook.json`](codebook.json) junto — mantenha os dois em
+  sincronia.
 - **Testou em outro Hub IR (não-Tuya) ou outra ferramenta?** Relate
   se os timings "de livro" do NEC funcionaram ou se você precisou dos
-  timings reais medidos (veja a nota em `IR_CODES.md`) — ajuda a
+  timings reais medidos (veja a nota em `README.md`) — ajuda a
   entender quão sensível é esse hardware específico.
-- **Bugs no código do CLI:** este projeto já passou por vários bugs
-  reais documentados na seção 8 do [`README.md`](README.md) — se
+- **Bugs no CLI Python (uso com Tuya):** este projeto já passou por
+  vários bugs reais documentados em [`TUYA_CLI.md`](TUYA_CLI.md) — se
   achar mais algum (principalmente algo que só aparece contra
   hardware real, não em testes isolados), PR ou issue são bem-vindos.
 

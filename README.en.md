@@ -2,6 +2,13 @@
 
 # IR remote codes — AUN ET30 projector
 
+> Lost, broken, or missing the remote for your **AUN ET30** mini
+> projector (or a compatible model — AUN ET40C, A30, A30C, ET40,
+> ET30S, Artlii YG600, YG620, YG220, AKEY7)? Before buying a universal
+> or replacement remote, check if these IR codes solve it — they work
+> with a Tuya Smart IR Hub, Flipper Zero, LIRC, or any generic NEC
+> transmitter (Arduino, ESPHome, Tasmota).
+
 Complete map of the infrared codes for the remote control that ships
 with the **AUN ET30** mini projector. These codes were **not
 documented anywhere public** before this repository (no hits in the

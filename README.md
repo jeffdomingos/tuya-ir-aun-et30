@@ -2,6 +2,13 @@
 
 # Códigos IR do controle remoto — Projetor AUN ET30
 
+> Perdeu, quebrou ou não tem o controle remoto do seu mini projetor
+> **AUN ET30** (ou dos modelos compatíveis listados abaixo — AUN ET40C,
+> A30, A30C, ET40, ET30S, Artlii YG600, YG620, YG220, AKEY7)? Antes de
+> comprar um controle universal ou de reposição, veja se esses códigos
+> IR resolvem — funcionam com um Hub Smart IR da Tuya, Flipper Zero,
+> LIRC ou qualquer emissor NEC genérico (Arduino, ESPHome, Tasmota).
+
 Mapa completo dos códigos infravermelhos do controle remoto que
 acompanha o mini projetor **AUN ET30**. Esses códigos não estavam
 documentados em nenhum lugar público antes deste repositório (sem

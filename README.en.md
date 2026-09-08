@@ -16,6 +16,22 @@ unit, **open an issue or PR** with your projector's brand/model — it
 helps map the family of devices sharing this same remote chip. See
 [CONTRIBUTING.md](CONTRIBUTING.en.md).
 
+## Possibly compatible models (unverified)
+
+The only unit I actually have to test with is the **AUN ET30**, so the
+codes above are confirmed on that one alone. However, I found
+replacement-remote listings advertised as compatible with several
+models at once, which suggests they share the same chip/command
+layout:
+
+- [Remote Control for AUN ET40C A30 A30C ET40 ET30 ET30S / Artlii YG600 US-YG600B YG620 YG220 (Amazon)](https://www.amazon.com/dp/B0DK75XS2R)
+- [Remote Control For AUN ET40C A30 A30C ET40 ET30 ET30S AKEY7 (eBay)](https://www.ebay.com/itm/176633915628)
+
+Models mentioned in those listings: **AUN ET40C, A30, A30C, ET40,
+ET30S**, **Artlii YG600, US-YG600B, YG620, YG220**, **AKEY7**. If you
+own one of these and the codes work (or don't), please open an issue —
+that's what actually confirms (or rules out) compatibility.
+
 ## Protocol
 
 - **Protocol:** standard NEC, 32 bits (address + ~address + command +

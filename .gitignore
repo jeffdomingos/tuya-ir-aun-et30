@@ -1,0 +1,16 @@
+# Credenciais reais -- NUNCA commitar (use .env.example como modelo)
+.env
+
+# Cache local do remote_id provisionado (especifico da sua conta/Hub)
+.tuya_remote_cache.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

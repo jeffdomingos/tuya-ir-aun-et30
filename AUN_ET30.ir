@@ -1,0 +1,92 @@
+Filetype: IR signals file
+Version: 1
+#
+name: FORWARD
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 82 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 88 00 00 00
+#
+name: VOLUME+
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8C 00 00 00
+#
+name: MENU
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 91 00 00 00
+#
+name: PLAY_PAUSE
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 93 00 00 00
+#
+name: CIMA
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 95 00 00 00
+#
+name: INPUT
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 97 00 00 00
+#
+name: REWIND
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 98 00 00 00
+#
+name: DIREITA
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 99 00 00 00
+#
+name: BAIXO
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9A 00 00 00
+#
+name: ESQUERDA
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9B 00 00 00
+#
+name: VOLUME-
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9C 00 00 00
+#
+name: OK
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9E 00 00 00
+#
+name: VOLTAR
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: A4 00 00 00
+#
+name: POWER
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: A8 00 00 00

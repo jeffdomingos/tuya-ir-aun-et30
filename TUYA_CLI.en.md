@@ -371,15 +371,3 @@ without a standard icon.
 ├── codebook.json          # created automatically (codes per button)
 └── .tuya_remote_cache.json  # created automatically (remote_id cache)
 ```
-
-**Helper scripts** (project root, outside `main.py`'s main flow,
-created during the AUN ET30 investigation and useful as reference for
-manual scans on other devices):
-
-- `scan_missing_buttons.py` / `remote_voldown.py` — batch scanning or
-  numbered candidate testing, meant to run locally without a
-  per-command time limit.
-- `test_candidates_interactive.py` — interactive menu to test and
-  save candidates one at a time.
-- `remote.py` — terminal "remote control" (Windows, via `msvcrt`):
-  press a key and the command fires instantly, no ENTER needed.

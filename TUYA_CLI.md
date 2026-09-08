@@ -371,15 +371,3 @@ padrão.
 ├── codebook.json          # criado automaticamente (códigos por botão)
 └── .tuya_remote_cache.json  # criado automaticamente (cache do remote_id)
 ```
-
-**Scripts auxiliares** (raiz do projeto, fora do fluxo principal do
-`main.py`, criados durante a investigação da AUN ET30 e úteis como
-referência pra varreduras manuais em outros aparelhos):
-
-- `scan_missing_buttons.py` / `remote_voldown.py` — varredura em lote
-  ou testes numerados de candidatos, pra rodar localmente sem limite
-  de tempo por comando.
-- `test_candidates_interactive.py` — menu interativo pra testar e
-  salvar candidatos um a um.
-- `remote.py` — "controle remoto" no terminal (Windows, via
-  `msvcrt`): aperta uma tecla e o comando dispara na hora, sem ENTER.

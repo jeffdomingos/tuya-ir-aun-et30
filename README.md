@@ -110,6 +110,16 @@ Além do mapa de códigos, este repositório inclui:
   necessário se você só quer os códigos — ver
   [TUYA_CLI.md](TUYA_CLI.md) caso esse seja o seu caso.
 
+## Apoie o projeto
+
+Se esses códigos te pouparam de comprar um controle novo (ou de jogar
+o projetor fora), considere pagar um café:
+
+- **GitHub Sponsors**: [github.com/sponsors/jeffdomingos](https://github.com/sponsors/jeffdomingos)
+- **PIX** (chave aleatória): `bed24680-2ead-40e3-9aef-73a1601a6399`
+
+  <img src=".github/pix-qr.png" alt="QR Code PIX" width="180">
+
 ## Licença
 
 [MIT](LICENSE).

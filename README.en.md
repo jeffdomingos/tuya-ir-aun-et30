@@ -109,6 +109,16 @@ Besides the code map, this repository includes:
   want the codes — see [TUYA_CLI.md](TUYA_CLI.en.md) if that's your
   case.
 
+## Support this project
+
+If these codes saved you from buying a new remote (or tossing the
+projector), consider buying me a coffee:
+
+- **GitHub Sponsors**: [github.com/sponsors/jeffdomingos](https://github.com/sponsors/jeffdomingos)
+- **PIX** (Brazilian instant payment, random key): `bed24680-2ead-40e3-9aef-73a1601a6399`
+
+  <img src=".github/pix-qr.png" alt="PIX QR Code" width="180">
+
 ## License
 
 [MIT](LICENSE).
